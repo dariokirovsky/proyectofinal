@@ -495,7 +495,7 @@ fieldset h2 {
 
   /* BANNER DE REPRODUCCIONES Y SUSCRIPTORES*/
   div.banner {
-    width: 95%;
+    width: 100%;
     height: 100%;
     flex-wrap: wrap;
     margin: 10px;
@@ -579,7 +579,7 @@ fieldset h2 {
 
 @media only screen and (min-width: 480px) {
   div.banner {
-    width: 95%;
+    width:100%;
     
     height: 100%;
     flex-wrap: wrap;
@@ -602,7 +602,7 @@ fieldset h2 {
 
 @media only screen and (min-width: 600px) {
   div.banner {
-    width: 95%;
+    width: 100%;
     height: 100%;
     flex-wrap: wrap;
   }
@@ -626,7 +626,7 @@ fieldset h2 {
 
   /*BANNER REPRODUCCIONES Y SUCRIPTORES*/
   div.banner {
-    width: 95%;
+    width: 100%;
     height: 100%;
     flex-direction: column;
     margin-bottom: 15px;
